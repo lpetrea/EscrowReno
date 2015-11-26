@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/App/App.iml" filepath="$PROJECT_DIR$/App/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuiceViewer/GuiceViewer.iml" filepath="$PROJECT_DIR$/GuiceViewer/GuiceViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringViewer/SpringViewer.iml" filepath="$PROJECT_DIR$/SpringViewer/SpringViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewer/Viewer.iml" filepath="$PROJECT_DIR$/viewer/Viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/depPar.iml" filepath="$PROJECT_DIR$/depPar.iml" />
+    </modules>
+  </component>
+</project>
