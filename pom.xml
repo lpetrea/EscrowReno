@@ -4,16 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.zeiss.assisted</groupId>
+    <groupId>org.deppar</groupId>
     <artifactId>depPar</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>App</module>
-        <module>Viewer</module>
-        <module>GuiceViewer</module>
-        <module>SpringViewer</module>
+        <module>app</module>
+        <module>viewer</module>
+        <module>guiceViewer</module>
+        <module>springViewer</module>
     </modules>
 
     <dependencies>
