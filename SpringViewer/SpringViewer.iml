@@ -6,6 +6,9 @@
         <fileset id="fileset" name="Spring Viewer Application Context" removed="false">
           <file>file://$MODULE_DIR$/src/main/java/de/zeiss/deppar/viewer/spring/ViewerConfiguration.java</file>
         </fileset>
+        <fileset id="fileset2" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/org/deppar/viewer/spring/ViewerConfiguration.java</file>
+        </fileset>
       </configuration>
     </facet>
   </component>
